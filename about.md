@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a computer scientist who likes to have fun with math and physics. I love anything and everything about these subjects. This blog will be a fun place where I share my thoughts on cool stuff I find or just want to share in general. I hope all the readers enjoy themselves here :). This site was created with [Jekyll Now](https://github.com/barryclark/jekyll-now).
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My more specific interests are in algebraic geometry, computational complexity, and anything quantum.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[crouchingarmadillo2718@gmail.com](mailto:crouchingarmadillo2718@gmail.com)
